@@ -47,6 +47,3 @@ Project Individual/
 
 ---
 
-## Code Description
-
-### Import
